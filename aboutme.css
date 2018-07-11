@@ -1,0 +1,19 @@
+*{
+    background-color: #ffbf00;
+    text-align: center;
+}
+
+h1{
+    color: purple;
+    font-family: 'Coda Caption', sans-serif;
+}
+
+p{
+    font-family: 'Spectral SC', serif;
+    font-weight: bold;
+    font-size: 250%;
+}
+
+img{
+    width: 30%;
+}
